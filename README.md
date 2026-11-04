@@ -1,11 +1,6 @@
 # TruWorlds Creator Discord Rich Presence
 
-Shows what you're doing in **TruWorlds Creator** on your Discord profile:
-
-> **Playing TruWorlds Creator**
-> Editing My Cool World
-> Also open: Other World
-> 01:23:45 elapsed
+Shows what you're doing in **TruWorlds Creator** on your Discord profile.
 
 It switches to **Playtesting <world>** while you're in a playtest and clears itself when you close Creator.
 
